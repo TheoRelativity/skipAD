@@ -3,6 +3,17 @@ Browser Addon to skip Adf.ly, Zo.ee and similar.
 
 Actual Version: 0.0.0
 
+Website supported:
+
+**Legend**: F (Full support), B (Supported with bugs)
+
+| HOST  | Website   | Supported | version |
+| ---------------- | --------- | - | ----- |
+| zo.ee            | Adult.xyz | F | 0.0.0 |
+| threadsphere.bid | Adf.ly    | B | 0.0.0 |
+| adf.ly           | Adf.ly    | F | 0.0.0 |
+
+
 **Advertisement!!!**
 
 Do not use this addon, at least not yet. Is a work in progress ;)
