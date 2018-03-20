@@ -1,0 +1,32 @@
+{
+
+  "description": "Execute a fast redirect from Adult.xyz to final destination",
+  "manifest_version": 2,
+  "name": "Skip AD",
+  "version": "1.0",
+  "homepage_url": "http://caisd.com",
+  "icons": {
+    "64": "icons/corndog.png"
+  },
+  
+  "browser_action": {
+    "default_icon": "icons/corndog.png",
+    "theme_icons": [{
+        "light": "icons/corndog.png",
+        "dark": "icons/corndog.png",
+        "size": 32
+    }],
+    "default_title": "Skip AD",
+    "default_popup": "html/options.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["skipAD.js"]
+    }
+  ],
+  
+  "permissions": ["tabs","storage","http://localhost/skipAD/1/*"]
+
+}
