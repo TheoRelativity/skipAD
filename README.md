@@ -29,3 +29,15 @@ latest_update TIMESTAMP COMMENT "Latest update"
 | adf_ly|
 | adult_xyz |
 | threadsphere_bidNascondi | 
+
+#### Folders Anatomy
+
+
+ /0.0.0 <br />
+ ------/ <br />
+ ------- * index.php <br />
+ ------- * save.php <br />
+ ------- * functions.php <br />
+ ------- * errors.txt
+ 
+ 
