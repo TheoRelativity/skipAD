@@ -22,7 +22,7 @@ latest_update TIMESTAMP COMMENT "Latest update"
 ) 
 ```
 
-#### Tables name
+### Tables name
 
 | Table Name | since version | 
 | --- | --- |
@@ -30,7 +30,7 @@ latest_update TIMESTAMP COMMENT "Latest update"
 | adult_xyz | 0.0.0 |
 | threadsphere_bidNascondi | 0.0.0 | 
 
-#### Folders Anatomy
+### Folders Anatomy
 
 
  > /0.0.0/ <br />
