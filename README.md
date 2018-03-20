@@ -24,20 +24,31 @@ latest_update TIMESTAMP COMMENT "Latest update"
 
 #### Tables name
 
-| Table Name |
-| --- |
-| adf_ly|
-| adult_xyz |
-| threadsphere_bidNascondi | 
+| Table Name | since version | 
+| --- | --- |
+| adf_ly| 0.0.0 |
+| adult_xyz | 0.0.0 |
+| threadsphere_bidNascondi | 0.0.0 | 
 
 #### Folders Anatomy
 
 
- /0.0.0 <br />
- ------/ <br />
- ------- * index.php <br />
- ------- * save.php <br />
- ------- * functions.php <br />
- ------- * errors.txt
+ > /0.0.0/ <br />
+ ---------index.php <br />
+ ---------save.php <br />
+ ---------functions.php <br />
+ ---------errors.txt
  
+ ## Addon Side
+ 
+ ### Folders Anatomy
+ 
+> / <br />
+> ---/html <br />
+> ------ Empty <br />
+> ---/icons <br /> 
+> ------default.png <br />
+> ---manifest.json <br />
+> ---skipAD.js
+
  
