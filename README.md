@@ -9,9 +9,9 @@ Website supported:
 
 | HOST  | Website   | Supported | version |
 | ---------------- | --------- | - | ----- |
-| zo.ee            | Adult.xyz | F | 0.0.0 |
-| threadsphere.bid | Adf.ly    | B | 0.0.0 |
-| adf.ly           | Adf.ly    | F | 0.0.0 |
+| zo.ee            | [Adult.xyz](http://adult.xyz/) | F | 0.0.0 |
+| threadsphere.bid | [Adf.ly](http://adf.ly/)       | B | 0.0.0 |
+| adf.ly           | [Adf.ly](http://adf.ly/)       | F | 0.0.0 |
 
 
 **Advertisement!!!**
