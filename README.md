@@ -1,5 +1,5 @@
 # skipAD
-Browser Addon to skip Adf.ly, Zo.ee and similar.
+Browser Addon to skip Adf.ly, Zo.ee and similars.
 
 Actual Version: 0.0.0
 
