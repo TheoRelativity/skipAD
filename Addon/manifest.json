@@ -4,16 +4,16 @@
   "manifest_version": 2,
   "name": "Skip AD",
   "version": "1.0",
-  "homepage_url": "http://caisd.com",
+  "homepage_url": "https://github.com/TheoRelativity/skipAD/",
   "icons": {
-    "64": "icons/corndog.png"
+    "64": "icons/default.png"
   },
   
   "browser_action": {
-    "default_icon": "icons/corndog.png",
+    "default_icon": "icons/default.png",
     "theme_icons": [{
-        "light": "icons/corndog.png",
-        "dark": "icons/corndog.png",
+        "light": "icons/default.png",
+        "dark": "icons/default.png",
         "size": 32
     }],
     "default_title": "Skip AD",
@@ -27,6 +27,6 @@
     }
   ],
   
-  "permissions": ["tabs","storage","http://localhost/skipAD/1/*"]
+  "permissions": ["tabs","storage","http://localhost/skipAD/0.0.0/*"]
 
 }
