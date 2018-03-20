@@ -31,7 +31,7 @@
 	 {
 		if( $dati["excode"] == 1 )
 		{
-		  $conn = new mysqli("localhost","skipAD","asdwqe__!165184_?asd98sad8","skipad");
+		  $conn = new mysqli("host","database_name","database_password","database_user");
 		  
 		   if ($conn->connect_error)
 			file_put_contents("errors.txt","Connection error. Error: " . $conn->error . "\n", FILE_APPEND);
