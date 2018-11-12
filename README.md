@@ -1,5 +1,9 @@
 # skipAD
+
 Browser Addon to skip Adf.ly, Zo.ee and similars.
+
+
+This plugin has been developed to try browser's APIs. It is not supposed to be used.
 
 Actual Version: 0.0.0
 
