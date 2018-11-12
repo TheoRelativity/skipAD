@@ -18,9 +18,6 @@ Website supported:
 | adf.ly           | [Adf.ly](http://adf.ly/)       | F | 0.0.0 |
 
 
-**Advertisement!!!**
-
-Do not use this addon, at least not yet. Is a work in progress ;)
 
 ## Server Side
 
